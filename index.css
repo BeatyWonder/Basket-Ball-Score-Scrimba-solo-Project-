@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+
+                                                
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Home{
+    color: red;
+    width: 149px;
+    height: 36px;
+    margin-left: 85px;
+    margin-top: 68px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+/* identical to box height, or 90% */
+text-align: center;
+color: #EEEEEE;
+}
+
+.homeCount
+{
+    width: 155px;
+    height: 120px;
+    margin-top: -65px;
+    margin-left: 82px;
+    background: #080001;
+    border-radius: 5px;
+}
+.homeScore{
+    width: 117px;
+    height: 120px;
+    margin-left: 18px;
+    margin-right: 20px;
+    top: 125px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+/* or 141% */
+text-align: center;
+color: #F94F6D;
+}
+
+.guestScore{
+    width: 117px;
+    height: 120px;
+    margin-left: 18px;
+    margin-right: 20px;
+    top: 125px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+/* or 141% */
+text-align: center;
+color: #F94F6D;
+}
+
+.HomeButtons{
+    width: 155px;
+    height: 45px;
+    margin-left: 82px;
+    margin-top: 26px;
+ 
+}
+
+.GuestButtons{
+     width: 155px;
+    height: 45px;
+    margin-left: 82px;
+    margin-top: 26px;
+}
+
+.Button{
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #1B244A;
+}
+.GuestButton{
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    background-color: #1B244A;
+}
+.btn{
+    width: 30px;
+    height: 25.77px;
+    left: 89px;
+    top: 280px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+/* or 155% */
+text-align: center;
+color: #9AABD8;
+}
+
+.Guestbtn{
+   width: 30px;
+    height: 25.77px;
+    left: 89px;
+    top: 280px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+/* or 155% */
+text-align: center;
+color: #9AABD8  
+}
